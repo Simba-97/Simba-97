@@ -1,8 +1,5 @@
 ### Hola! I'm Hritik 👋
 
-<!--
-**singhHritik97/singhHritik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Skills
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I have the link to my twitter handle and my email on my profile
 - 😄 Pronouns: me, you and us(community)
 - ⚡ Fun fact: Whole of me!!
--->
+
