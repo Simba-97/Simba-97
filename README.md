@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=singhHritik97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[twitter]: (https://twitter.com/HritikK61977782)
-[youtube]: (https://www.youtube.com/channel/UCfoPEplnGbCdkwaf6UdQVKA)
-[instagram]: (https://www.instagram.com/__hritik_singh__/)
-[linkedin]: (https://www.linkedin.com/in/hritik-kumar-singh-2a7664193/)
+[twitter]:(https://twitter.com/HritikK61977782)
+[youtube]:(https://www.youtube.com/channel/UCfoPEplnGbCdkwaf6UdQVKA)
+[instagram]:(https://www.instagram.com/__hritik_singh__/)
+[linkedin]:(https://www.linkedin.com/in/hritik-kumar-singh-2a7664193/)
 
