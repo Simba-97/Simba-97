@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 ### Connect with me!👋
 
-<a href="https://twitter.com/HritikK61977782">
+<a href="https://twitter.com/HritikKSingh">
   <img align="left" alt="Hritik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hritik-kumar-singh-2a7664193/">
   <img align="left" alt="Hritik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/singhHritik97">
+<a href="https://github.com/Simba-97">
   <img align="left" alt="Hritik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/__hritik_singh__/">
