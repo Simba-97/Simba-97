@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Simba-97">
   <img align="left" alt="Hritik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/__hritik_singh__/">
+<a href="https://www.instagram.com/_hritik_kumar_singh_/">
   <img align="left" alt="Hritik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCfoPEplnGbCdkwaf6UdQVKA">
