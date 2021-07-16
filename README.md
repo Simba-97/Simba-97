@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Skills
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on React.js, Java, Javascript and also Youtube Content.
-- 🤔 I’m looking for help with React.js
+- 🌱 I’m currently learning Android Development
+- 👯 I’m looking to collaborate on Android, Kotlin, React.js, Java, Javascript and also Youtube Content.
+- 🤔 I’m looking for help with Android, Kotlin and React.js
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: I have the link to my twitter handle and my email on my profile
 - 😄 Pronouns: he, him.
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="Simba-97/apphttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
