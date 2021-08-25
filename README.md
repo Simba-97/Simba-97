@@ -1,4 +1,4 @@
-### Hola! I'm Hritik 👋
+### Hola! I'm Hritik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Here are some ideas to get you started:
 
