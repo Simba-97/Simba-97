@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working @<b>Klizo Solutions<b>
-- 🌱 I’m currently learning Jetpack Compose, Material Design, <b>Android Development ❤️<b>
-- 👯 I’m looking to collaborate on Android, Kotlin, React.js, Java, Javascript and also Youtube Content.
-- 🤔 I’m looking for help with Android, Kotlin and React.js
-- 💬 Ask me about any tech related stuff
-- 📫 How to reach me: I have the link to my twitter handle and my email on my profile
-- 😄 Pronouns: he, him.
-- ⚡ Fun fact: Whole of me!!
+- 🔭 I’m currently working at <b>@Klizo Solutions</b>
+- 🌱 I’m currently learning more about Jetpack Compose, Python, Android development(Forever 💓).
+- 👯 I’m looking to collaborate on Android, Jetpack, Youtube etc.
+- 🤔 I’m looking for help with improving my DSA problem solving skills.
+- 💬 Ask me about Android in general or Jetpack Compsoe.
+- 📫 How to reach me: Well! Now, you have my email and all the links to my social media handles.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I am not coding then I am reading on medium, or streaming Youtube or PUBG 🥆
 
 ### Connect with me!👋
 
