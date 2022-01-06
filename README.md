@@ -1,9 +1,11 @@
-### Hola! I'm Hritik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Skills
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working @<b>Klizo Solutions<b>
+- 🌱 I’m currently learning Jetpack Compose, Material Design, <b>Android Development ❤️<b>
 - 👯 I’m looking to collaborate on Android, Kotlin, React.js, Java, Javascript and also Youtube Content.
 - 🤔 I’m looking for help with Android, Kotlin and React.js
 - 💬 Ask me about any tech related stuff
