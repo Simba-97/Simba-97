@@ -2,6 +2,7 @@
 
 ## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simba-97&label=Profile%20views&color=0e75b6&style=flat" alt="Simba-97" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at <b>@Klizo Solutions</b>
@@ -57,5 +58,6 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Simba-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hritik's github stats"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simba-97" alt="Simba's Streak" /></p>
 
-### Share some love with Starring repositories and following me on my social media handles
+### Share some love 🥰 by Starring 🌟 my repositories and following me on my social media handles
