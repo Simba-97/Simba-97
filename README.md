@@ -1,4 +1,4 @@
-### Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hola! Que pasa mi amigos? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
