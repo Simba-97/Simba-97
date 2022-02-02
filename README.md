@@ -3,7 +3,7 @@
 ## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simba-97&label=Profile%20views&color=0e75b6&style=flat" alt="Simba-97" /></p>
-Here are some ideas to get you started:
+Here are some ideas to get you started :)
 
 - 🔭 I’m currently working at <b>@Klizo Solutions</b>
 - 🌱 I’m currently learning more about Jetpack Compose, Python, Android development(Forever 💓).
