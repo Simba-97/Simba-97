@@ -9,7 +9,7 @@ Here are some ideas to get you started :)
 - 🌱 I’m currently learning more about Jetpack Compose, Python, Android development(Forever 💓).
 - 👯 I’m looking to collaborate on Android, Jetpack, Youtube etc.
 - 🤔 I’m looking for help with improving my DSA problem solving skills.
-- 💬 Ask me about Android in general or Jetpack Compsoe.
+- 💬 Ask me about Android in general or Jetpack Compose.
 - 📫 How to reach me: Well! Now, you have my email id and all the links to my social media handles.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I am not coding then I am reading on medium, or streaming Youtube or PUBG 🥆
