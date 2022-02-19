@@ -34,6 +34,11 @@ Here are some ideas to get you started :)
 
 <br />
 <br />
+<summary> <samp>&#9776; My GitHub Trophies</samp></summary>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Simba-97&title=MultiLanguage,Organizations,Commit,PullRequest,Repositories,Followers&theme=radical&row=2&column=3" />
+
+![Hritik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simba-97&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
 
 
 ### Languages and Tools:
