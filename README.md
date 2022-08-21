@@ -10,7 +10,7 @@ Here are some ideas to get you started :)
 - 👯 I’m looking to collaborate on Android, Jetpack, Youtube etc.
 - 🤔 I’m looking for help with improving my DSA problem solving skills.
 - 💬 Ask me about Android in general or Jetpack Compose.
-- 📫 How to reach me: Well! Now, you have my email id and all the links to my social media handles.
+- 📫 How to reach me: Well! Now, you have my email id and all the links to my social media handles. Go ahead and drop me a message :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I am not coding then I am reading on medium, or streaming Youtube or PUBG 🥆
 
