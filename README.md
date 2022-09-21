@@ -6,7 +6,7 @@
 Here are some ideas to get you started :)
 
 - 🔭 I’m currently working at <b>@Klizo Solutions</b>
-- 🌱 I’m currently learning more about Jetpack Compose, Python, Android development(Forever 💓).
+- 🌱 I’m currently learning more about Jetpack Compose, Nodejs, React Native.
 - 👯 I’m looking to collaborate on Android, Jetpack, Youtube etc.
 - 🤔 I’m looking for help with improving my DSA problem solving skills.
 - 💬 Ask me about Android in general or Jetpack Compose.
