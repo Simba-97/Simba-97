@@ -1,7 +1,5 @@
 ### Hello there! How you doing? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">
 
-<img src="https://www.holopin.io/@simba_97">
-
 ## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simba-97&label=Profile%20views&color=0e75b6&style=flat" alt="Simba-97" /></p>
