@@ -1,5 +1,7 @@
 ### Hello there! How you doing? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">
 
+<img src="https://www.holopin.io/@simba_97">
+
 ## I'm [Hritik](https://simba-97.github.io/Portfolio/)! Nice meeting you!! 😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simba-97&label=Profile%20views&color=0e75b6&style=flat" alt="Simba-97" /></p>
@@ -39,6 +41,9 @@ Here are some ideas to get you started :)
 <img src="https://github-profile-trophy.vercel.app/?username=Simba-97&title=MultiLanguage,Organizations,Commit,PullRequest,Repositories,Followers&theme=radical&row=2&column=3" />
 
 ![Hritik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simba-97&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+
+### Hacktoberfest 2022:
+[![@simba_97's Holopin board](https://holopin.me/simba_97)](https://holopin.io/@simba_97)
 
 
 ### Languages and Tools:
