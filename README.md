@@ -37,7 +37,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Simba-97&title=MultiLanguage,Organizations,Commit,PullRequest,Repositories,Followers&theme=radical&row=2&column=3" />
 
-![Hritik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simba-97&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+<!-- ![Hritik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simba-97&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam) -->
 
 ### Hacktoberfest 2022:
 [![@simba_97's Holopin board](https://holopin.me/simba_97)](https://holopin.io/@simba_97)
@@ -65,7 +65,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Simba-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hritik's github stats"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Simba-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hritik's github stats"/> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simba-97" alt="Simba's Streak" /></p>
 
 ### Share some love 🥰 by Starring 🌟 my repositories and following me on my social media handles
