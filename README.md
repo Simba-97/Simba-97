@@ -64,8 +64,9 @@
 
 
 
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Simba-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hritik's github stats"/> -->
+<a href="https://github.com/Simba-97?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Simba-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&show_icons=true&theme=dracula&line_height=27" alt="hritik's github stats"/>
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simba-97" alt="Simba's Streak" /></p>
 
 ### Share some love 🥰 by Starring 🌟 my repositories and following me on my social media handles
