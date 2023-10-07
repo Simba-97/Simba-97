@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simba-97&label=Profile%20views&color=0e75b6&style=flat" alt="Simba-97" /></p>
 
 - 🔭 I’m currently working at <b>@Ascentspark Software</b>
-- 🌱 I’m currently learning more about Jetpack Compose, Nodejs, React Native.
+- 🌱 I’m currently learning more about Jetpack Compose, Compose Multiplatform.
 - 👯 I’m looking to collaborate on Android, Jetpack Compose, DSA, Youtube etc.
 - 🤔 I’m looking for help with improving my DSA problem solving skills.
 - 💬 Ask me about Android in general or Jetpack Compose.
